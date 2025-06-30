@@ -1,0 +1,14 @@
+.gameLogo
+{
+    max-width: 400px;
+    max-height: 400px;
+    display: block;
+}
+.gameElement
+{
+    max-width: 600px;
+    padding: 10px;
+    border: black solid 5px;
+    margin-bottom: 10px;
+    background-color: lightcyan;
+}
